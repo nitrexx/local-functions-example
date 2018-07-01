@@ -11,7 +11,7 @@ namespace LocalFunctions
         private CacheClient cache = new CacheClient();
 
         /// <summary>
-        /// RandomNumber
+        /// Sum year digits
         /// </summary>
         /// <returns></returns>
         public int GetSumYearDigits()
@@ -21,7 +21,7 @@ namespace LocalFunctions
         }
 
         /// <summary>
-        /// Power 2 for random number
+        /// Power 2
         /// </summary>
         /// <returns></returns>
         public double GetPowNumber()
